@@ -1,16 +1,12 @@
-![Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz
-com-36](https://github.com/user-attachments/assets/e032affb-24eb-46a0-9dcc-c8acae10b335)
+![Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz com-36](https://github.com/user-attachments/assets/970aa2e7-14f3-4773-ac66-5189c60b15f3)
 
-<h1>Hello, I'm AC Sabañgan ♡</h1>
+<h1 style="color: #d4a0a0">Hello, I'm AC Sabañgan ♡</h1>
 <ul>
   <li>
     I'm a Computer Engineering student at Polytechnic University of the
     Philippines (PUP).
   </li>
-  <li>
-    Currently, I'm enhancing my skills in Full Stack Development and Game
-    Development.
-  </li>
+  <li>Currently, I'm learning Full Stack Development and Game Development.</li>
 </ul>
 
 📫 Contact: **adriensabangan@gmail.com**
