@@ -11,8 +11,12 @@
 
 📫 Contact: **adriensabangan@gmail.com**
 
+## Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,python)
 
+## Tools
 ![Tools](https://skillicons.dev/icons?i=figma,vscode)
 
+## Currently Learning
 ![Currently Learning](https://skillicons.dev/icons?i=typescript,react,nodejs,flutter)
+
