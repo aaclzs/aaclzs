@@ -18,5 +18,6 @@
 ![Tools](https://skillicons.dev/icons?i=figma,vscode)
 
 ## Currently Learning
-![Currently Learning](https://skillicons.dev/icons?i=typescript,react,nodejs,flutter)
+![Currently Learning](https://skillicons.dev/icons?i=typescript,react,nodejs,flutter,godot)
+
 
