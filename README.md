@@ -9,7 +9,7 @@
   <li>Currently, I'm learning Full Stack Development and Game Development.</li>
 </ul>
 
-📫 Contact: **adriensabangan@gmail.com**
+📫 Email: **adriensabangan@gmail.com**
 
 ## Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,python)
