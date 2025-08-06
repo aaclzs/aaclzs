@@ -11,8 +11,8 @@
 
 📫 Email: **adriensabangan@gmail.com**
 
-## Languages & Frameworks
-![Languages & Frameworks](https://skillicons.dev/icons?i=html,css,js,python,bootstrap,tailwind)
+## Languages 
+![Languages & Frameworks](https://skillicons.dev/icons?i=html,css,js,python)
 
 ## Tools & IDEs
 ![Tools & IDEs](https://skillicons.dev/icons?i=figma,vscode,pycharm)
